@@ -1,8 +1,8 @@
 # ipapi
 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/honego/ipapi?logo=github)
-![GitHub License](https://img.shields.io/github/license/honego/ipapi.svg?logo=github)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/honeok/ipapi?logo=github)
+![GitHub License](https://img.shields.io/github/license/honeok/ipapi.svg?logo=github)
 
 ## What is ipapi?
 

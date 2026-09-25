@@ -1,0 +1,28 @@
+{
+  "name": "ipapi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "next build",
+    "dev": "wrangler dev --ip 0.0.0.0 --port 3838",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p src/worker/tsconfig.json"
+  },
+  "dependencies": {
+    "next": "16.3.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "5.20260925.1",
+    "@eslint/js": "9.39.5",
+    "@types/node": "24.13.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.70.1",
+    "wrangler": "4.140.0"
+  },
+  "packageManager": "pnpm@12.4.2"
+}

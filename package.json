@@ -21,8 +21,8 @@
     "@types/react-dom": "19.3.0",
     "eslint": "9.39.5",
     "typescript": "6.0.3",
-    "typescript-eslint": "8.71.2",
-    "wrangler": "4.151.2"
+    "typescript-eslint": "8.72.0",
+    "wrangler": "4.151.3"
   },
   "packageManager": "pnpm@12.4.2"
 }
